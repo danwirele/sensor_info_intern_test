@@ -34,9 +34,8 @@ Before you begin, ensure you have the following dependencies and tools installed
 
 2. Use the following command to clone the ProjectName repository:
 
-git clone https://github.com/danwirele/ProjectName.git
+git clone https://github.com/danwirele/sensor_info_intern_test
 
-   Replace `your-username` with your GitHub username.
 
 ### Build and Run
 
